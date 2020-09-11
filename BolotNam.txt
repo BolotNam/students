@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 My first line in project
-London is the capital of GB
-Moscow is the capital of Russia
 Paris is the capital of
+=======
+
+second record
+third record
+>>>>>>> parent of 4658053... Paris
