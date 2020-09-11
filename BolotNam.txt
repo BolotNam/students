@@ -1,7 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 My first line in project
 Paris is the capital of
 =======
+=======
+1
+2
+3
+4
+5
+>>>>>>> 90ea34fd41bde85f7976d2937f809e19f7e634a9
 
 second record
 third record
